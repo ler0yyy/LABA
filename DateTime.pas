@@ -1,3 +1,4 @@
 ﻿begin
-println('Скоро Новый Год')
+  var i := readinteger;
+  println(i * 365)
 end.
