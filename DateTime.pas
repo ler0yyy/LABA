@@ -1,3 +1,3 @@
 ﻿begin
-println('Скоро Новый Год')
+  println('365')
 end.
