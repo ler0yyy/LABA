@@ -1,3 +1,4 @@
 ﻿begin
-  println('365')
+  var i := readinteger;
+  println(i * 365)
 end.
