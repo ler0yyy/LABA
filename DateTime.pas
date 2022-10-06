@@ -1,4 +1,4 @@
 ﻿begin
   var i := readinteger;
-  println(i * 365)
+  println(i * 3600)
 end.
